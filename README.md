@@ -39,11 +39,3 @@ Designed to be visually engaging and accessible on any device:
 
 ## Project URL
 [https://nfl-prototype.web.app/](https://nfl-prototype.web.app/)
-
-## Building and Running
-
-### Quick Start Guide
-1. **Clone the Repository**: Clone the project repository to your local environment.
-   ```bash
-   git clone https://github.com/your-username/NFL-PROtotype-Comparison-Website.git
-   cd NFL-PROtotype-Comparison-Website
